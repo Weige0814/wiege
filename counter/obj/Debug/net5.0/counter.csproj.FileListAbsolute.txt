@@ -1,0 +1,15 @@
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/counter.deps.json
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/counter.runtimeconfig.json
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/counter.runtimeconfig.dev.json
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/counter.dll
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/ref/counter.dll
+/Users/wuchwei/Documents/GitHub/wiege/counter/bin/Debug/net5.0/counter.pdb
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.csprojAssemblyReference.cache
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.AssemblyInfoInputs.cache
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.AssemblyInfo.cs
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.csproj.CoreCompileInputs.cache
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.dll
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/ref/counter.dll
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.pdb
+/Users/wuchwei/Documents/GitHub/wiege/counter/obj/Debug/net5.0/counter.genruntimeconfig.cache
